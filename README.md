@@ -1,5 +1,5 @@
 ﻿# Constraining the Orbits of Small Solar System Bodies Using Spectroscopic Doppler Shift Measurements
-![SDS logo](https://raw.githubusercontent.com/ItaiTzur76/SpectroscopicDopplerShift/main/Logo.png)
+![SDS logo](Logo.png)
 ## Repository Description
 This repository contains all files relevant to the thesis prepared as part of the work for my M.Sc. from [the Department of Geophysical, Atmospheric and Planetary Sciences](https://en-exact-sciences.tau.ac.il/earth) of [Tel Aviv University](https://english.tau.ac.il).
 This work has also been published as an academic paper in the [Astronomische Nachrichten](https://www.aip.de/AN) journal ([pages 634-637](https://OnlineLibrary.wiley.com/doi/10.1002/asna.201412198) of [volume 336, issue 7](http://OnlineLibrary.wiley.com/doi/10.1002/asna.v336.7/issuetoc)) on 10 September 2015, and was referenced in works by others authors, such as [Pantalone & Kudenov (2017)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10407/2274804/Fraunhofer-line-optical-correlator-for-improvement-of-initial-orbit-determination/10.1117/12.2274804.full?tab=ArticleLinkReference#:~:text=9.%C2%A0S.%20Zucker,(2015).) and [Pantalone & Kudenov (2018)](https://link.springer.com/article/10.1007/s10569-018-9878-9#:~:text=Zucker,(2015)).
